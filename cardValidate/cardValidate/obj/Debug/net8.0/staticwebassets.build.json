@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sQMEVHuiLZ7YS9CGEloyGo5Kpv+1NkIzVYLVG8wgdzg=",
+  "Source": "cardValidate",
+  "BasePath": "_content/cardValidate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

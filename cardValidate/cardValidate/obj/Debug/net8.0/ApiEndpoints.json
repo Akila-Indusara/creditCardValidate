@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "cardValidate.Controllers.ValidateCardController",
+    "Method": "ValidateCard",
+    "RelativePath": "api/ValidateCard",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "cardValidate.Controllers.CardValidationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
