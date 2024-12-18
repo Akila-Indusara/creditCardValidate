@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cardValidate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74d657ea14361672866afb120ae8faf90d5ad872")]
 [assembly: System.Reflection.AssemblyProductAttribute("cardValidate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cardValidate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
